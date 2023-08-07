@@ -2,7 +2,7 @@
 React App TravePin
 
 
-([DEMO](https://youtu.be/vaanojkF1NA)))
+([DEMO](https://youtu.be/vaanojkF1NA))
 
 
 
