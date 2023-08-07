@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-19T13:18:32.000Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "48.85929404028656",
+        "lng": "2.37579345703125"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Greater Manchester",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-07-26T13:19:21.000Z",
+      "notes": "MANCHESTER",
+      "position": {
+        "lat": "53.48804553605622",
+        "lng": "-2.0434570312500004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Stoke-on-Trent",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-07-26T00:15:53.000Z",
+      "notes": "",
+      "position": {
+        "lat": "53.01147838269375",
+        "lng": "-2.1176147460937504"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Brugge",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2023-07-18T00:16:31.000Z",
+      "notes": "",
+      "position": {
+        "lat": "51.22408779639158",
+        "lng": "3.3068847656250004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-07T11:29:48.000Z",
+      "notes": "Travelled To London ! It was great !",
+      "position": {
+        "lat": "51.5189980614127",
+        "lng": "-0.06591796875000001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Sarnen",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2023-07-26T11:30:45.000Z",
+      "notes": "GREAT!",
+      "position": {
+        "lat": "46.89023157359399",
+        "lng": "8.151855468750002"
+      },
+      "id": 98443206
+    }
+  ]
+}
